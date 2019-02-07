@@ -2,21 +2,9 @@
   "name": "3dhop",
   "version": "4.2.0",
   "description": "dainst clone of the visual computing laboratory 3dhop 4.2 from github https://github.com/cnr-isti-vclab/3DHOP",
-  "main": "3dhop.component.js",
-  "directories": {
-    "example": "examples"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dainst/3dhop.git"
   },
-  "author": "Sven Linßen <sven.linssen@gmx.de>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dainst/3dhop/issues"
-  },
-  "homepage": "https://github.com/dainst/3dhop#readme"
+  "author": "Sven Linßen <sven.linssen@gmx.de>"
 }
